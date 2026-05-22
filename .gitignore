@@ -1,0 +1,12 @@
+# Ignore common local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional local-only source dump folder
+sources/private/
+
+# Temporary conversion outputs
+*.tmp
+*.bak
